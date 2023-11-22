@@ -6,6 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 // 김동준 흔적
 // 내가바꿀게 정민아~
+// 재호야 풀 됫어?
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:myosa/main.dart';
