@@ -1,12 +1,9 @@
 // This is a basic Flutter widget test.
-// tmdgml commit
 // To perform an interaction with a widget in your test, use the WidgetTester
 // utility in the flutter_test package. For example, you can send tap and scroll
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
-// 김동준 흔적
-// 내가바꿀게 정민아~
-// 재호야 풀 됫어?
+
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:myosa/main.dart';
